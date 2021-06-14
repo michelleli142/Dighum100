@@ -1,4 +1,4 @@
-# Digital Humanities 101 - Summer 2020 
+# Digital Humanities 100 - Summer 2021
 ![alt text](book.png "Book")
 
 # Project Abstract
